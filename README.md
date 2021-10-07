@@ -29,6 +29,7 @@ If you look at the t-test for each lot on the other hand, the p-values tell you 
 ![lot_one](https://user-images.githubusercontent.com/83738699/136303445-4bd5ff35-5ed3-4c64-b10d-bd9040e890d5.PNG)
 
 Lot1 has a p-value of one which means it has a true sample mean of 1500 and that we can not reject our null hypothesis.
+
 ![lot_two](https://user-images.githubusercontent.com/83738699/136303475-e2860f58-2654-4d2d-a89d-1dbc50ac68d6.PNG)
 
 Lot2 says the same thing, with a p-value of 0.6072 which is higher than the significance level of 0.05%. Thus we cannot reject our null hypothesis.
