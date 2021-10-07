@@ -15,6 +15,7 @@ The design specifications of the MechaCar suspension coils dictate that the vari
 ![Total_Summary](https://user-images.githubusercontent.com/83738699/136277435-7c1246d1-16ca-47cb-94bb-a4de714261d5.PNG)
 
 When you look at the Total_Summary you can see that the variance of the suspension coils is under the specifications with a variance PSI of 62.29356. 
+
 ![Lot_Summary](https://user-images.githubusercontent.com/83738699/136277636-54b0a24b-2320-4384-9e8a-bf7df9bd8c0b.PNG)
 
 But if you were to look at each lot and their  summary. It is clear that lot 3 is not under the design specifications of 100 PSI and is causing the variance with Total_Summary to be off. 
