@@ -32,6 +32,7 @@ Lot1 has a p-value of one which means it has a true sample mean of 1500 and that
 ![lot_two](https://user-images.githubusercontent.com/83738699/136303475-e2860f58-2654-4d2d-a89d-1dbc50ac68d6.PNG)
 
 Lot2 says the same thing, with a p-value of 0.6072 which is higher than the significance level of 0.05%. Thus we cannot reject our null hypothesis.
+
 ![lot_three](https://user-images.githubusercontent.com/83738699/136303488-aac007f8-cfb1-485a-8c96-7aea599fef0a.PNG)
 
 Lot3 on the other hand has a p-value of 0.04168 which is lower than the significance level and looking at the confidence interval of 1492.431. Tells us to reject the hypothesis on this sample lot3 and that it is not statistically different. 
